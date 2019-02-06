@@ -10,7 +10,7 @@ if(ch == 'a' || ch == 'e' || ch == 'i'
 || ch == 'o' || ch == 'u') {
 ++vowels;
 }
-else if((ch >= 'a'&& ch <= 'y')) {
+else if((ch >= 'a'&& ch <= 'z')) {
  ++consonants;
 }
 else if( ch >= '0' && ch <= '9')
