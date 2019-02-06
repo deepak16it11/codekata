@@ -5,7 +5,7 @@ import java.util.Scanner;
 
         Scanner reader = new Scanner(System.in);
 
-        System.out.print("Enter a num: ");
+        System.out.print("Enter the num: ");
         int num = reader.nextInt();
 
         if(num % 2 == 0)
